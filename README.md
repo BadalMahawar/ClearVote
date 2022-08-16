@@ -33,3 +33,7 @@ See free video tutorial for full explanation of these steps:
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
+
+## Authors
+- [Hanuman Prasad Meena](https://github.com/hanuallrounder)   
+- [Badal Mahawar](https://github.com/BadalMahawar)
